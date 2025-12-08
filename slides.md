@@ -1,3 +1,4 @@
+Email: 24f2004223@ds.study.iitm.ac.in
 # Quarterly Earnings Report  
 **Technical Consultant: Callur Meghana Rao**  
 Email: **24f2004223@ds.study.iitm.ac.in**
