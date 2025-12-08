@@ -1,5 +1,5 @@
 # Quarterly Earnings Report  
-**Technical Consultant: Meghana Rao**  
+**Technical Consultant: Callur Meghana Rao**  
 Email: **24f2004223@ds.study.iitm.ac.in**
 
 ---
@@ -40,4 +40,3 @@ shares_outstanding = 12_000_000
 
 eps = net_income / shares_outstanding
 print(f"Quarterly EPS: {eps:.2f}")
-
